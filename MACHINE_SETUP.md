@@ -4,6 +4,10 @@
 
 ## Other settings
 
+### Configure `zsh`
+
+Update `~/.zshrc` with following [config](.zshrc).
+
 ### Configure `Home` and `End` keys for full keyboard on `Mac`
 
 Create new `DefaultKeyBinding.dict` file in Library:
