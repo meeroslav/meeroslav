@@ -2,6 +2,39 @@
 
 ## Install apps
 
+Applications to install:
+- WebStorm
+- IntelliJ Idea
+- VS Code
+- iTerm2
+- Chrome
+- Firefox
+- Affinity Design
+- Affinity Photo
+- Franz
+- Notion
+- Spotify
+- Commander One and ask for license transfer to the new machine
+- Dropbox
+- Docker
+- Folx
+- Logi Options
+- Plex Media Server
+- Unrchiver
+
+Optionally:
+- Reason Studio
+- Audacity
+- Kindle
+- Renoise
+- TeamViewer
+- Zoom
+- Skype
+- Typelight
+- Adobe XD
+- Onyx
+- Luminar 3
+
 ## Other settings
 
 ### Configure terminal
