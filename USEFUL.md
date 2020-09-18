@@ -1,6 +1,15 @@
 # List of useful commands
 
-## Kill process running on port `1234`
+## Git
+
+### Ammend last commit
+```zsh
+git commit --amend
+```
+
+## Terminal
+
+### Kill process running on port `1234`
 
 ```zsh
 sudo lsof -i tcp:1234
@@ -12,3 +21,7 @@ sudo lsof -i tcp:1234
 kill -9 5261
 
 ```
+
+## Vim
+* Save file: `:w`
+* Quit: `:q`
