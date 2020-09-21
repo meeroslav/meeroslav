@@ -19,7 +19,11 @@ sudo lsof -i tcp:1234
 
 # Next we kill the process with that ID
 kill -9 5261
+```
 
+Or in single line:
+```zsh
+sudo kill `sudo lsof -t -i:1234`
 ```
 
 ## Vim
