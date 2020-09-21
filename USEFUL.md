@@ -2,6 +2,21 @@
 
 ## Git
 
+### Stashing changes for later
+```zsh
+# save changes to stash
+git stash
+# apply changes from stash
+git stash apply
+# delete old stash
+git stash drop
+```
+
+### Reset last commit but leave changes stashed
+```zsh
+git reset --soft HEAD~ 
+```
+
 ### Ammend last commit
 ```zsh
 git commit --amend
