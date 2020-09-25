@@ -10,6 +10,16 @@ git stash
 git stash apply
 # delete old stash
 git stash drop
+# apply stash and delete it
+git stash pop
+```
+
+### Disable/enable file tracking
+```zsh
+# disable tracking of file changes
+git update-index --assume-unchanged path/to/myfile.ext
+# enable file changes tracking
+git update-index --no-assume-unchanged path/to/myfile.ext
 ```
 
 ### Reset last commit but leave changes stashed
