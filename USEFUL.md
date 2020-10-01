@@ -38,6 +38,7 @@ git commit --amend
 Go to advanced settings via `about:config` and set 
 ```
 devtools.inspector.showUserAgentShadowRoots: true
+devtools.inspector.showAllAnonymousContent: true
 ```
 
 ### Show Shadow DOM in Chrome
