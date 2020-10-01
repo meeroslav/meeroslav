@@ -32,6 +32,17 @@ git reset --soft HEAD~
 git commit --amend
 ```
 
+## Browser
+
+### Show Shadow DOM in Mozilla
+Go to advanced settings via `about:config` and set 
+```
+devtools.inspector.showUserAgentShadowRoots: true
+```
+
+### Show Shadow DOM in Chrome
+Go to dev tools settings and under `Elements` check `Show user agent shadow DOM`
+
 ## Terminal
 
 ### Kill process running on port `1234`
