@@ -8,7 +8,8 @@ fi
 # If you come from bash you might have to change your $PATH.
 export NODE_PATH="/usr/local/lib/node_modules"
 export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-14.0.1.jdk/Contents/Home"
-export PATH=$HOME/bin:/opt/local/bin:/usr/local/bin:$PATH
+export PATH=/opt/homebrew/bin:$HOME/bin:/opt/local/bin:/usr/local/bin:$HOME/.cargo/bin:$PATH
+alias ibrew='arch -x86_64 /usr/local/bin/brew'
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/miro/.oh-my-zsh
