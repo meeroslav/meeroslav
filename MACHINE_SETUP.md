@@ -21,6 +21,7 @@ Applications to install:
 - Logi Options
 - Plex Media Server
 - Unrchiver
+- Alfred
 
 Optionally:
 - Reason Studio
