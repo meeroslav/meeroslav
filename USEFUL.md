@@ -66,3 +66,11 @@ sudo kill `sudo lsof -t -i:1234`
 ## Vim
 * Save file: `:w`
 * Quit: `:q`
+
+## Docker
+* Download image: `docker pull imagename`
+* Run container: `docker run --name containername imagename`
+* List all images: `docker ps`
+* List all containers: `docker container ls -a`
+* Remove container: `docker container rm 123124`
+* SSH to container: `docker exec -it containername /bin/bash`
