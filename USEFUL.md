@@ -74,3 +74,9 @@ sudo kill `sudo lsof -t -i:1234`
 * List all containers: `docker container ls -a`
 * Remove container: `docker container rm 123124`
 * SSH to container: `docker exec -it containername /bin/bash`
+
+### Setup ubuntu machine with nodejs
+1. `apt-get update`
+2. `apt-get curl`
+3. `apt-get curl -sL https://deb.nodesource.com/setup_14.x | bash` (change number for the version)
+4. `apt-get install -y nodejs`
