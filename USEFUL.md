@@ -80,3 +80,6 @@ sudo kill `sudo lsof -t -i:1234`
 2. `apt-get curl`
 3. `apt-get curl -sL https://deb.nodesource.com/setup_14.x | bash` (change number for the version)
 4. `apt-get install -y nodejs`
+
+## Windows
+* Create empty file: `fsutil file createnew emptyfile.txt 0`
