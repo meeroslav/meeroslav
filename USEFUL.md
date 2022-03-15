@@ -29,7 +29,7 @@ git reset --soft HEAD~
 
 ### Ammend last commit
 ```zsh
-git commit --amend
+git commit --amend --no-edit
 ```
 
 ## Browser
