@@ -32,6 +32,13 @@ git reset --soft HEAD~
 git commit --amend --no-edit
 ```
 
+### Change someone else's PR
+```
+git remote add TheirName git@github.com:TheirName/reponame.git
+gh pr checkout 1234
+git push git@github.com:TheirName/reponame.git <branch-name>:<branch-name>
+```
+
 ## Browser
 
 ### Show Shadow DOM in Mozilla
