@@ -12,6 +12,8 @@
 
 * Use `yarn cache clean` to remove all the cache
 * If you want to remove a specific lib's cache run `yarn cache dir` to get the right yarn cache directory path for your OS, then `cd` to that directory and remove the folder with the name + version of the lib you want to cleanup.
+* Use `yarn set version berry` to switch to latest version (make sure to be in ~/ folder)
+* Use `yarn set version classic` to switch to v1 version (make sure to be in ~/ folder)
 
 ## Git
 
