@@ -50,7 +50,7 @@ git commit --amend --no-edit
 ### Change someone else's PR
 ```
 git remote add TheirName git@github.com:TheirName/reponame.git
-gh pr checkout 1234
+gh pr checkout 1234 # or gh pr checkout https://github.com/main-org/repo/pull/1234
 git push git@github.com:TheirName/reponame.git <branch-name>:<branch-name>
 ```
 
