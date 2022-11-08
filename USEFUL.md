@@ -54,6 +54,13 @@ gh pr checkout 1234 # or gh pr checkout https://github.com/main-org/repo/pull/12
 git push git@github.com:TheirName/reponame.git <branch-name>:<branch-name>
 ```
 
+### Remove all branches matching a pattern
+```
+git branch | grep "fix-*" | xargs git branch -D
+# or
+git branch | grep "fix-*" | xargs git branch -d
+```
+
 ## Browser
 
 ### Show Shadow DOM in Mozilla
