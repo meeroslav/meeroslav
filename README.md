@@ -2,11 +2,7 @@
 
 [![Twitter followers](https://img.shields.io/twitter/follow/meeroslav?style=social)](https://twitter.com/meeroslav)
 [![GitHub followers](https://img.shields.io/github/followers/meeroslav?style=social)](https://github.com/meeroslav)
-[![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/meeroslav)
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meeroslav&theme=solarized_dark)
+[![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social)](https://www.linkedin.com/in/meeroslav)
 
 <!--
 **meeroslav/meeroslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
