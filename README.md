@@ -7,7 +7,6 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meeroslav&theme=solarized_dark)
-![](https://github-readme-stats.vercel.app/api?username=meeroslav&show_icons=true&count_private=true&theme=solarized-dark&hide_title=true&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeroslav&layout=compact&theme=solarized-dark)
 
 <!--
 **meeroslav/meeroslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
